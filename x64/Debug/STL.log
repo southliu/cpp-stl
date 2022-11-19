@@ -1,0 +1,5 @@
+﻿  mian.cpp
+D:\case\cpp\STL\mian.cpp(1,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\case\cpp\STL\mian.cpp(59,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\case\cpp\STL\mian.cpp(73,13): warning C4326: “main”的返回类型应为“int”而非“void”
+  STL.vcxproj -> D:\case\cpp\STL\x64\Debug\STL.exe
